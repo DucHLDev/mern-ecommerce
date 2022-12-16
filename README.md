@@ -8,6 +8,5 @@ This is my first eCommerce platform built with the MERN stack & Redux.
 - Product filter by Categories
 - User profile with orders
 - Admin management: products, orders, users
-- Checkout process (shipping, payment method, etc)
-- Mark orders as delivered option
-- Database
+- Checkout process
+- Database (Mysql)
